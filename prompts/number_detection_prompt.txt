@@ -1,0 +1,2 @@
+Determine if the following text contains numbers or numeric formats (e.g., 'three-star'). Respond with '1' if true, '0' otherwise:
+"[[CONTENT]]"

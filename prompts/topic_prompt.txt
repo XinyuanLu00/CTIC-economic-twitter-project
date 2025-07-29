@@ -1,0 +1,128 @@
+Determine which of the following topics the given text belongs to. Respond with one or more topic names separated by commas. Topics are: health_exp, public_assist, immigration_boarder, abortion, LGBTQ, international_relation, domestic_crime, inflation_live_exp, religion, unemployment, income_tax, middle_class, state_name, competitor_name, supporter_name, democracy, pluralist_values, disagreement, republican, democratic.
+
+Each topic is defined below with examples:
+
+1. **health_exp**:
+   Definition: Content includes keywords related to health expenditures.
+   Examples:
+   - "Latinos are 70% more likely to be diagnosed with diabetes."
+   - "We capped the cost of insulin at $35 a month for seniors."
+
+2. **public_assist**:
+   Definition: Content discusses public assistance programs.
+   Examples:
+   - "My economic plan will deal with price gouging on groceries and offer $25,000 in down payment assistance to first-time home buyers."
+   - "I have worked to support our HBCUs and address Black maternal mortality."
+
+3. **immigration_boarder**:
+   Definition: Content includes topics about immigration and border policies.
+   Examples:
+   - "I will work to fix our broken system of immigration, including securing our border."
+   - "We will not be invaded. We will not be conquered. We will be a free and proud nation."
+
+4. **abortion**:
+   Definition: Content discusses abortion-related policies or events.
+   Examples:
+   - "Donald Trump’s abortion bans have denied women care during miscarriages."
+   - "We have Trump Abortion Bans in 20 states."
+
+5. **LGBTQ**:
+   Definition: Content addresses LGBTQ+ rights and issues.
+   Examples:
+   - "To the LGBTQI+ community: You are valued for exactly who you are."
+   - "We will continue to fight for your freedom to love who you love."
+
+6. **international_relation**:
+   Definition: Content discusses global policies or international relations.
+   Examples:
+   - "I will strengthen America’s global leadership."
+   - "When Americans were dying of COVID, Trump sent tests to Putin for personal use."
+
+7. **domestic_crime**:
+   Definition: Content relates to crime within the country.
+   Examples:
+   - "I have spent my career prosecuting transnational criminals."
+   - "Hamas leaders will pay for their crimes."
+
+8. **inflation_live_exp**:
+   Definition: Content discusses inflation or living expenditures.
+   Examples:
+   - "We capped insulin at $35/month for seniors."
+   - "Kamala’s policies will increase inflation 100 times worse."
+
+9. **religion**:
+   Definition: Content addresses religious topics or values.
+   Examples:
+   - "A loving God asks us to speak up for those who cannot speak for themselves."
+   - "We welcome believers and embrace followers of Jesus."
+
+10. **unemployment**:
+    Definition: Content relates to employment or unemployment.
+    Examples:
+    - "I worked to achieve the lowest Black unemployment rate ever."
+    - "Trump left us the worst unemployment since the Great Depression."
+
+11. **income_tax**:
+    Definition: Content discusses taxation policies.
+    Examples:
+    - "I will not raise taxes on anyone making less than $400,000 a year."
+    - "Every American will be taxed up to 80% of their income."
+
+12. **middle_class**:
+    Definition: Content focuses on issues affecting the middle class.
+    Examples:
+    - "We will lower costs and give 100 million middle-class Americans a tax cut."
+    - "I come from the middle class and will never forget where I come from."
+
+13. **state_name**:
+    Definition: Content mentions a specific state by name.
+    Examples:
+    - "Join me in Green Bay, Wisconsin for a rally."
+    - "THANK YOU, MICHIGAN!"
+
+14. **competitor_name**:
+    Definition: Content mentions a political competitor by name.
+    Examples:
+    - "Donald Trump’s track record is a disaster for working people."
+    - "Kamala and her ‘handlers’ are trying to shift blame for their failure."
+
+15. **supporter_name**:
+    Definition: Content mentions a supporter by name.
+    Examples:
+    - "President Joe Biden and I launched 988 for mental health care."
+    - "My friend Barack Obama is right—we are ready for a better story."
+
+16. **democracy**:
+   Definition: Content relates to democratic processes, election integrity, and the functioning of democratic institutions.
+   Examples:
+   - "In North Carolina, Karla Icaza De Austin, an Army veteran from Fayetteville, urged her state legislators to demand transparency, accountability, and fairness in the redistricting process—and reminded them of their duty to follow the will of the people. https://t.co/DhUwYbVTjl"
+   - "Very sadly for our Nation, it looks like Senator @JimInhofe will not be putting the Section 230 termination clause into the Defense Bill. So bad for our National Security and Election Integrity. Last chance to ever get it done. I will VETO!"
+
+17. **pluralist_values**:
+   Definition: Content emphasizes the value of diversity, inclusion, and the recognition of multiple perspectives as fundamental to a pluralistic society.
+   Examples:
+   - "RT @MichelleObama: What truly makes our country great is its diversity. I’ve seen that beauty in so many ways over the years."
+   - "RT @VP: It was a joy to be back in New Orleans this weekend to mark 30 years of @essencefest. Let us always celebrate the diversity, depth,…"
+
+18. **disagreement**:
+   Definition: Content expresses or acknowledges differences in opinion, emphasizing debate and conflict within political discourse.
+   Examples:
+   - "Unlike Donald Trump, I don't believe people who disagree with me are the enemy. He wants to put them in jail. I'll give them a seat at my table."
+   - "After seeing the massive Voter Fraud in the 2020 Presidential Election, I disagree with anyone that thinks a strong, fast, and fair Special Counsel is not needed, IMMEDIATELY. This was the most corrupt election in the history of our Country, and it must be closely examined!"
+
+19. **republican**:
+   Definition: Content that is supportive of or related to the Republican Party, its values, policies, or criticizes Democratic initiatives.
+   Examples:
+   - "Republicans in the Senate so quickly forget. Right now they would be down 8 seats without my backing them in the last Election. RINO John Thune, “Mitch’s boy”, should just let it play out. South Dakota doesn’t like weakness. He will be primaried in 2022, political career over!!!"
+   - "In so many ways, the Affordable Care Act has become part of our lives, changing the way we think about health insurance. But that doesn’t mean we can take it for granted. Right now, some Republicans are still trying to repeal and gut the ACA – including calling for cuts that… https://t.co/vZlDz2olXN"
+
+20. **democratic**:
+   Definition: Content that is supportive of or related to the Democratic Party, its values, or that criticizes Republican policies.
+   Examples:
+   - "To close out our #DemocracyForum, I’m joining @Baratunde for a conversation about how to strengthen our shared democratic culture. You can watch now: https://t.co/EfwDLV2LIs"
+   - "RT @BernardKerik: The Democratic Party and @JoeBiden engaged in criminal conduct to steal the election..."
+
+Text:
+"[[CONTENT]]"
+
+Response:
